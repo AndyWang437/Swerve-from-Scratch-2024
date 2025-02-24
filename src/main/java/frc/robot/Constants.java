@@ -33,7 +33,7 @@ public class Constants {
 
     public static class SwerveConstants {
         public static final double LOOP_TIME = 0.13;
-        public static final double MAXIMUM_SPEED = Units.feetToMeters(14.5);
+        public static final double MAXIMUM_SPEED = Units.feetToMeters(12);
         public static final String SWERVE_DIRECTORY = "swerve";
         public static final double CHASSIS_HEIGHT_INCHES = 8.0;
     }
